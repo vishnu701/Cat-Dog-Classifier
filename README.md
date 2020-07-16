@@ -6,13 +6,13 @@ This model has been trained for 5 epochs.
 
 ## Dependencies
 Keras conda installation
-> conda install -c conda-forge keras
+`conda install -c conda-forge keras`
 
 OpenCV conda installation
-> conda install -c conda-forge opencv
+`conda install -c conda-forge opencv`
 
 Numpy conda installation
-> conda install -c anaconda numpy
+`conda install -c anaconda numpy`
 
 
 
